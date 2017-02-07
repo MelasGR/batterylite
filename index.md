@@ -1,7 +1,7 @@
 ## Privacy Policy
 
-We recognize that privacy is significant. This Privacy Policy (“Policy”) applies to your use of the Battery Lite application.
-MelasGR (“us” or “we”) has created this Policy to explain our privacy practices so you will understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using BATTERY LITE would be collected.
+We recognize that privacy is significant. This Privacy Policy (“Policy”) applies to your use of the _Battery Lite_ application.
+_MelasGR_ (“us” or “we”) has created this Policy to explain our privacy practices so you will understand what information about you is collected, used and disclosed. We collect information from you in order to provide corresponding service and better user experience. With your consent of this Privacy Policy, your usage, statistics, input while using BATTERY LITE would be collected.
 
 ### A. WHAT KIND OF INFORMATION WE COLLECT
 
