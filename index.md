@@ -37,7 +37,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 ### G. CONTACTING US / REPORTING VIOLATIONS
 
-If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please [contact](mailto:melaspanagiotis@gmail.com) us at melaspanagiotis@gmail.com.
+If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please <a href="mailto:melaspanagiotis@gmail.com" target="_top">contact</a> us at melaspanagiotis@gmail.com.
 
 ### H. CHANGES TO THIS PRIVACY POLICY
 
