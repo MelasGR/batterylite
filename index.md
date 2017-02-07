@@ -12,10 +12,10 @@ The information you give us, for example, when you give us your opinions to our 
 ### B. HOW WE USE COLLECTED INFORMATION
 
 a.  Personal Information- since we do not collect Personal Information, we may not use your personal information in any way.
-b.  Non- Personal Information. We may use Non-Personal Information only for serving you better as below:
+b.  Non- Personal Information. We may use Non-Personal Information only for serving you better as below:<br>
 1.  To personalize user experience;
-1.  To help develop our service- We may use Non- Personal Information to provide, maintain, improve and develop our services;
-1.  We may collect your non-personal information and use them for market and promotion purpose, for example, we may promote or recommend more relevant apps to you.
+2.  To help develop our service- We may use Non- Personal Information to provide, maintain, improve and develop our services;
+3.  We may collect your non-personal information and use them for market and promotion purpose, for example, we may promote or recommend more relevant apps to you.
 
 ### C. HOW YOUR INFORMATION MAY BE DISCLOSED
 
