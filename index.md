@@ -11,16 +11,16 @@ The information you give us, for example, when you give us your opinions to our 
 
 ### B. HOW WE USE COLLECTED INFORMATION
 
-a.  Personal Information- since we do not collect Personal Information, we may not use your personal information in any way.
-b.  Non- Personal Information. We may use Non-Personal Information only for serving you better as below:<br>
-1.  To personalize user experience;
-2.  To help develop our service- We may use Non- Personal Information to provide, maintain, improve and develop our services;
-3.  We may collect your non-personal information and use them for market and promotion purpose, for example, we may promote or recommend more relevant apps to you.
+a. Personal Information- since we do not collect Personal Information, we may not use your personal information in any way.<br>
+b. Non- Personal Information. We may use Non-Personal Information only for serving you better as below:<br>
+1. To personalize user experience;<br>
+2. To help develop our service- We may use Non- Personal Information to provide, maintain, improve and develop our services;<br>
+3. We may collect your non-personal information and use them for market and promotion purpose, for example, we may promote or recommend more relevant apps to you.
 
 ### C. HOW YOUR INFORMATION MAY BE DISCLOSED
 
-a. Personal Information. We do not store Personal Information and therefore we do not disclose your Personal Information.
-b. Non-Personal Information. We do not sell, trade, or otherwise transfer to outside parties your information. We do not combine Non-Personal Information with Personal Information (such as combining your name with your unique User Device number).
+a. Personal Information. We do not store Personal Information and therefore we do not disclose your Personal Information.<br>
+b. Non-Personal Information. We do not sell, trade, or otherwise transfer to outside parties your information. We do not combine Non-Personal Information with Personal Information (such as combining your name with your unique User Device number).<br>
 c. We may disclose your non-personal information for promotion purpose to our trusted partners who shall comply with this privacy policy and the relevant privacy laws.
 
 ### D. USERS WITH WHOM YOU SHARE YOUR INFORMATION
