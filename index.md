@@ -5,7 +5,7 @@ _MelasGR_ (“us” or “we”) has created this Policy to explain our privacy 
 
 ### A. WHAT KIND OF INFORMATION WE COLLECT
 
-a. Personal Information. We do not collect Personal Information. “Personal Information” is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and/or the Site. ion includes your names, physical addresses, email addresses, telephone, fax, SSN, information stored within your Device and other information you transmit or receive using an Application, the Service and or the Site which identifies you or another person.
+a. Personal Information. We do not collect Personal Information. “Personal Information” is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and/or the Site. ion includes your names, physical addresses, email addresses, telephone, fax, SSN, information stored within your Device and other information you transmit or receive using an Application, the Service and or the Site which identifies you or another person.<br>
 b. Non-personal identification. We may collect non-personal identification information about installed applications, application usage information and device information.
 The information you give us, for example, when you give us your opinions to our application and services via our email address, such as your email address, and names;
 
