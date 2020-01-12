@@ -14,7 +14,7 @@ a. Personal Information. We do not collect Personal Information. “Personal Inf
 b. Non-personal identification. We may collect non-personal identification information about installed applications, application usage information and device information.
 The information you give us, for example, when you give us your opinions to our application and services via our email address, such as your email address, and names;
 
-Also, we may collect non-personal identification information from <strong>Advertisements</strong> (<a href="https://www.admob.com">AdMob</a> - <a href="https://www.adsense.com">AdSense</a>)<br><font color='#444444'>[This app (Battery Lite) use  <i>AdMob - AdSense</i> <strong>Ad formats:</strong> Banner]</font><br><br><i>Google Privacy Policies</i>:<br>1) <a href="https://www.google.com/policies/privacy/partners/">https://www.google.com/policies/privacy/partners/</a><br>(How Google uses data when you use our partners sites or apps)<br>2) <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>
+Also, we may collect non-personal identification information from <strong>Advertisements</strong> (<a href="https://www.admob.com">AdMob</a> - <a href="https://www.adsense.com">AdSense</a>)<br><font color='#444444'>[This app (Battery Lite) use  *AdMob - AdSense* <strong>Ad formats:</strong> Banner]</font><br><br><i>Google Privacy Policies</i>:<br>1) <a href="https://www.google.com/policies/privacy/partners/">https://www.google.com/policies/privacy/partners/</a><br>(How Google uses data when you use our partners sites or apps)<br>2) <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>
 
 ### B. HOW WE USE COLLECTED INFORMATION
 
