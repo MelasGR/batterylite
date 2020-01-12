@@ -6,7 +6,7 @@ _MelasGR_ (“us” or “we”) has created this Policy to explain our privacy 
 
   <strong>CCPA-Compliant</strong><br>
         **_We Do Not Sell Your Personal Information_**, we use <u>non-personalized</u> ads (Admob) for <strong>California residents</strong> (USA).
-          <br>
+          <br><br>
 
 ### A. WHAT KIND OF INFORMATION WE COLLECT
 
