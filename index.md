@@ -3,11 +3,17 @@
 We recognize that privacy is significant. This Privacy Policy (“Policy”) applies to your use of the _Battery Lite_ application.
 _MelasGR_ (“us” or “we”) has created this Policy to explain our privacy practices so you will understand what information about you is collected, used and disclosed. We may collect non-personal identification information from **Advertisements** (**AdMob** - **AdSense**), in order to provide  corresponding service and better user experience.
 
+<p><strong><h3><u>CCPA-Compliant</u></h3></strong></p>
+        <u>We Do Not Sell Your Personal Information</u>, we use <u>non-personalized</u> ads (Admob) for <strong>California residents</strong> (USA).
+          <br>
+
 ### A. WHAT KIND OF INFORMATION WE COLLECT
 
 a. Personal Information. We do not collect Personal Information. “Personal Information” is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and/or the Site. ion includes your names, physical addresses, email addresses, telephone, fax, SSN, information stored within your Device and other information you transmit or receive using an Application, the Service and or the Site which identifies you or another person.<br>
 b. Non-personal identification. We may collect non-personal identification information about installed applications, application usage information and device information.
 The information you give us, for example, when you give us your opinions to our application and services via our email address, such as your email address, and names;
+
+Also, we may collect non-personal identification information from <strong>Advertisements</strong> (<a href="https://www.admob.com">AdMob</a> - <a href="https://www.adsense.com">AdSense</a>)<br><font color='#444444'>[This app (Battery Lite) use  <i>AdMob - AdSense</i> <strong>Ad formats:</strong> Banner]</font><br><br><i>Google Privacy Policies</i>:<br>1) <a href="https://www.google.com/policies/privacy/partners/">https://www.google.com/policies/privacy/partners/</a><br>(How Google uses data when you use our partners sites or apps)<br>2) <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>
 
 ### B. HOW WE USE COLLECTED INFORMATION
 
