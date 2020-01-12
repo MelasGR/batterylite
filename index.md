@@ -3,8 +3,8 @@
 We recognize that privacy is significant. This Privacy Policy (“Policy”) applies to your use of the _Battery Lite_ application.
 _MelasGR_ (“us” or “we”) has created this Policy to explain our privacy practices so you will understand what information about you is collected, used and disclosed. We may collect non-personal identification information from **Advertisements** (**AdMob** - **AdSense**), in order to provide  corresponding service and better user experience.
 
-<p><strong><h3>*+CCPA-Compliant+*</h3></strong></p>
-        __We Do Not Sell Your Personal Information__, we use <u>non-personalized</u> ads (Admob) for <strong>California residents</strong> (USA).
+<p><strong><h3>CCPA-Compliant</h3></strong></p>
+        __**We Do Not Sell Your Personal Information**__, we use <u>non-personalized</u> ads (Admob) for <strong>California residents</strong> (USA).
           <br>
 
 ### A. WHAT KIND OF INFORMATION WE COLLECT
